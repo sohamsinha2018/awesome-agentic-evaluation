@@ -112,6 +112,7 @@ Competitions drive the field forward by providing standardized leaderboards, inc
 
 - [**AgentBeats**](https://github.com/agentbeats/agentbeats) — Open platform for agent evaluation where benchmarks themselves are packaged as *assessor agents*. This "agents evaluating agents" model scales evaluation beyond manually curated test suites.
 - [**AgentX-AgentBeats Competition**](https://rdi.berkeley.edu/agentx-agentbeats.html) — UC Berkeley RDI-hosted competition focused on building benchmark agents and contestant agents for public-good evaluation tasks. Demonstrates the AAA (Agent, Assessor, Arena) paradigm.
+- [**Signalpost**](https://builderr.ai/challenges/signalpost) — Code-only challenge evaluating research agents on Norwegian company identification, source-dated evidence, factual synthesis, and usability.
 - [**agentify-example-tau-bench**](https://github.com/agentbeats/agentify-example-tau-bench) — Example of wrapping an existing benchmark (τ-bench) into the AgentBeats ecosystem, illustrating how to convert traditional benchmarks into assessor-agent format.
 - [**AgentBeats Tutorials**](https://github.com/agentbeats/agentbeats_tutorials) — Starter material for integrating A2A-compatible agents and assessments.
 - [**AgentBeats Info Session Deck**](https://rdi.berkeley.edu/assets/agentbeats-competition-info-session-deck.pdf) — Background on the AAA framework, assessor agents, A2A and MCP standardization, registries, traces, and leaderboards.
